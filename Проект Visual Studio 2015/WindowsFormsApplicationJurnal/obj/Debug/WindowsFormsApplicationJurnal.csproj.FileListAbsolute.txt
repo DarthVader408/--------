@@ -1,0 +1,12 @@
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\bin\Debug\WindowsFormsApplicationJurnal.exe.config
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\bin\Debug\WindowsFormsApplicationJurnal.exe
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\bin\Debug\WindowsFormsApplicationJurnal.pdb
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\obj\Debug\WindowsFormsApplicationJurnal.csprojResolveAssemblyReference.cache
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\obj\Debug\WindowsFormsApplicationJurnal.Login.resources
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\obj\Debug\WindowsFormsApplicationJurnal.Properties.Resources.resources
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\obj\Debug\WindowsFormsApplicationJurnal.csproj.GenerateResource.Cache
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\obj\Debug\WindowsFormsApplicationJurnal.exe
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\obj\Debug\WindowsFormsApplicationJurnal.pdb
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\obj\Debug\WindowsFormsApplicationJurnal.Ticher.resources
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\obj\Debug\WindowsFormsApplicationJurnal.Stud.resources
+c:\users\mr.cat\documents\visual studio 2015\Projects\WindowsFormsApplicationJurnal\WindowsFormsApplicationJurnal\obj\Debug\WindowsFormsApplicationJurnal.PassWords.resources
